@@ -1,29 +1,25 @@
 # ----
 # Site
 
-title: Base
-url: "https://orange-ape.cloudvent.net/"
+title: Danger Cove Support
+url: "https://support.dangercove.com"
 baseurl:
-google_analytics_key:
+google_analytics_key: UA-27275793-30
 disqus_shortname:
 newsletter_action:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Knowledge base template for Jekyll.
+description: First aid with all Danger Cove apps.
 author:
-  name:
-  email:
-  twitter: # twitter username without the @ symbol
-social:
-  name: Base Template
-  links:
-    - https://github.com/CloudCannon/base-jekyll-template
+  name: Boy van Amstel
+  email: support@dangercove.com
+  twitter: dangercove # twitter username without the @ symbol
 
 # -----
 # Build
 
-timezone: Etc/UTC
+timezone: CEST
 
 permalink: /:categories/:title/
 
