@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Danger Cove Support
+title: Danger Cove
 url: "https://support.dangercove.com"
 baseurl:
 google_analytics_key: UA-27275793-30
@@ -35,6 +35,7 @@ exclude:
   - Gemfile.lock
   - README.md
   - LICENCE
+  - deploy.sh
 
 collections:
   sets:

@@ -2,7 +2,7 @@
 date: 2018-05-03
 title: Why isn't Denied skipping explicit songs?
 categories:
-  - denied
+  - Denied
 description: "Fix skipping exlicit songs."
 type: Document
 ---
