@@ -1,0 +1,52 @@
+/help_center                                                                      /
+
+/knowledge_base/categories/general                                       /category/general
+/knowledge_base/topics/can-i-use-my-app-license-on-multiple-macs*        /general/can-i-use-my-app-license-on-multiple-macs
+/knowledge_base/topics/ive-lost-my-license-what-do-i-do*                 /general/ive-lost-my-license-what-do-i-do
+/knowledge_base/topics/do-your-apps-work-with-macos-10-dot-12-sierra*    /general/do-your-apps-work-with-the-latest-macos
+/knowledge_base/topics/if-i-buy-one-of-your-apps-how-will-i-get-it*      /general/if-i-buy-an-app-how-do-i-get-it
+/
+/
+/knowledge_base/categories/denied*                                       /category/denied
+/knowledge_base/topics/why-isnt-denied-skipping-explicit-songs*          /denied/why-isnt-denied-skipping-explicit-songs
+/knowledge_base/topics/where-is-the-non-mac-app-store-version-of-denied* /denied/where-is-the-non-mac-app-store-version-of-denied
+/knowledge_base/topics/why-isnt-denied-skipping-this-explicit-song*      /denied/why-isnt-denied-skipping-this-explicit-song
+/knowledge_base/topics/which-music-services-and-apps-are-supported*      /denied/which-music-services-and-apps-are-supported
+/knowledge_base/topics/why-isnt-denied-skipping-this-horrible-song*      /denied/why-isnt-denied-skipping-this-horrible-song
+/
+/
+/knowledge_base/categories/airvlc*                                                     /category/airvlc
+/knowledge_base/topics/how-do-i-use-airvlc-with-porthole-or-airfoil*                   /airvlc/how-do-i-use-airvlc-with-porthole-or-airfoil
+/knowledge_base/topics/built-in-airplay-isnt-working*                                  /airvlc/why-isnt-built-in-airplay-working
+/knowledge_base/topics/how-do-i-start-streaming*                                       /airvlc/how-do-i-start-streaming
+/knowledge_base/topics/the-output-volume-is-very-low-or-i-cant-hear-anything-at-all*   /airvlc/why-is-the-output-volume-so-low
+/
+/
+/knowledge_base/categories/toggluv*                                                    /category/toggluv
+/knowledge_base/topics/what-is-toggl*                                                  /toggluv/what-is-toggl
+/knowledge_base/topics/i-cant-select-the-projects-dropdown-menu-with-my-keyboard*      /toggluv/how-can-i-select-projects-with-my-keyboard
+/knowledge_base/topics/whats-the-current-status-of-toggluv*                            /toggluv/whats-the-current-status-of-toggluv
+/
+/
+/knowledge_base/categories/porthole*                                                                 /category/porthole
+/knowledge_base/topics/can-i-stream-to-my-airplay-speakers-and-my-mac-simultaneously*                /porthole/can-i-stream-to-my-airplay-speakers-and-my-mac-simultaneously
+/knowledge_base/topics/cant-connect-to-apple-tv-4*                                                   /porthole/why-cant-i-connect-to-apple-tv-4
+/knowledge_base/topics/does-porthole-support-googles-chromecast*                                     /porthole/does-porthole-support-googles-chromecast
+/knowledge_base/topics/porthole-drops-the-connection-after-3-minutes-on-my-4th-generation-apple-tv*  /porthole/why-does-porthole-drop-the-connection-after-3-minutes-on-my-4th-generation-apple-tv
+/knowledge_base/topics/can-i-remote-control-porthole-from-my-phone*                                  /porthole/can-i-remote-control-porthole-from-my-phone
+/knowledge_base/topics/can-i-use-applescript-to-control-porthole*                                    /porthole/can-i-use-applescript-to-control-porthole
+/knowledge_base/topics/how-do-i-remove-all-settings-and-reinstall-porthole*                          /porthole/how-do-i-remove-all-settings-and-reinstall-porthole
+/knowledge_base/topics/which-devices-are-supported*                                                  /porthole/which-devices-are-supported
+/knowledge_base/topics/how-do-i-uninstall-or-reinstall-soundflower*                                  /porthole/how-do-i-uninstall-or-reinstall-soundflower
+/knowledge_base/topics/why-are-my-youtube-slash-vimeo-slash-etc-video-and-audio-out-of-sync*         /porthole/why-are-my-youtube-slash-vimeo-slash-etc-video-and-audio-out-of-sync
+/knowledge_base/topics/porthole-cant-connect-to-my-airplay-speaker*                                  /porthole/why-cant-porthole-connect-to-my-airplay-speaker
+/knowledge_base/topics/porthole-cant-find-my-airplay-device*                                         /porthole/why-cant-porthole-find-my-airplay-device
+/knowledge_base/topics/sometimes-the-music-stutters*                                                 /porthole/why-does-the-music-sometimes-stutter
+/knowledge_base/topics/how-do-the-individual-volume-adjustments-work*                                /porthole/how-do-the-individual-volume-adjustments-work
+/knowledge_base/topics/when-i-enable-the-computer-speaker-output-it-has-no-effect*                   /porthole/why-does-the-computer-speaker-output-not-work
+/knowledge_base/topics/i-have-multiple-airplay-devices-can-i-stream-to-all-of-them-at-once*          /porthole/can-i-stream-to-all-of-my-airplay-devices-at-once
+/knowledge_base/topics/i-dont-hear-anything-when-i-start-streaming*                                  /porthole/why-dont-i-hear-anything-when-i-start-streaming
+/knowledge_base/topics/the-sound-plays-twice-over-my-remote-speakers*                                /porthole/why-does-the-sound-play-twice-over-my-remote-speakers
+/knowledge_base/topics/my-macs-speaker-and-airplay-are-out-of-sync*                                  /porthole/why-are-my-macs-speaker-and-airplay-out-of-sync
+/knowledge_base/topics/the-volume-seems-low-while-streaming*                                         /porthole/why-is-the-volume-low-while-streaming
+/knowledge_base/topics/if-i-stop-streaming-my-system-audio-is-gone*                                  /porthole/why-is-my-system-audio-gone-when-i-stop-steaming

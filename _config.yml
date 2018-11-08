@@ -37,6 +37,9 @@ exclude:
   - LICENCE
   - deploy.sh
 
+include:
+  - _redirects
+
 collections:
   sets:
 
