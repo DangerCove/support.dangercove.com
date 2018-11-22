@@ -3,7 +3,7 @@ date: 2018-09-25
 title: Why is Denied not skipping this disliked track?
 categories:
   - Denied
-description: "A bug prevents the disliked property from triggering properly if the album does not have artwork."
+description: "Upgrade to version 1.5.2 to fix a bug that could prevent Denied from skipping some disliked tracks."
 type: Document
 ---
 
