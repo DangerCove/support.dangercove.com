@@ -6,4 +6,4 @@ categories:
 description: "It's a work in progress, but usable."
 type: Document
 ---
-I'm working on a new version of Toggluv, that offers the fastest, smoothest way to log hours into Toggl
+Toggluv has been discontinued late 2018.
