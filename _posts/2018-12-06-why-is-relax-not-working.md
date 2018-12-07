@@ -3,10 +3,8 @@ date: 2018-12-06
 title: Why is Relax not working?
 categories:
   - Relax
-description: "A known bug might prevent Relax to work right after launch. Restarting Relax will fix it."
+description: "Upgrade to version 1.0.2 to fix an issue that could prevent Relax from working properly."
 type: Document
 ---
 
-A known bug might prevent Relax to work right after launch.
-
-Restarting Relax will fix it. I'm working on a solution.
+Upgrade to version 1.0.2 to fix an issue that could prevent Relax from working properly.
