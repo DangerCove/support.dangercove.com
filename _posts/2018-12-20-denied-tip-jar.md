@@ -1,5 +1,5 @@
 ---
-date: 2018-12-06
+date: 2018-12-20
 title: Why is there a Tip Jar in Denied?
 categories:
   - Denied
