@@ -24,7 +24,6 @@ timezone: CEST
 permalink: /:categories/:title/
 
 plugins:
-  - jekyll-extract-element
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
