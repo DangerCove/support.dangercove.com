@@ -3,7 +3,7 @@ date: 2019-02-12
 title: Why isn't the background image included?
 categories:
   - Carbonize
-description: "A limitation of the underlying web engine prevents the background image from being used.
+description: "A limitation of the underlying web engine prevents the background image from being used."
 type: Document
 ---
 
