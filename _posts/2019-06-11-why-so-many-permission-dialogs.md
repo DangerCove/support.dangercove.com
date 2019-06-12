@@ -1,5 +1,5 @@
 ---
-date: 2019-05-29
+date: 2019-06-11
 title: Why so many permission dialogs?
 categories:
   - Pipvid 
