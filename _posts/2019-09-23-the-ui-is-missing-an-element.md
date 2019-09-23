@@ -3,7 +3,7 @@ date: 2019-09-23
 title: Why am I missing interface elements?
 categories:
   - Carbonize
-description: "I need to update the CSS an update is usually underway."
+description: "I need to update the CSS. An update is usually underway."
 type: Document
 ---
 
