@@ -1,6 +1,6 @@
 ---
 date: 2020-01-04
-title: The updicator doesn't update
+title: The indicator doesn't update
 categories:
   - Timeless 
 description: "I'm investigating a bug that seems to affect when the indicator is updated."
