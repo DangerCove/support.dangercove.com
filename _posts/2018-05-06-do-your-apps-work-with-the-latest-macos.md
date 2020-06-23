@@ -1,9 +1,9 @@
 ---
-date: 2018-05-06
+date: 2020-06-22 22:00:00 +0000
 title: Do your apps work with macOS 11 Big Sur?
 categories:
 - General
-description: Denied and Toggluv work as expected.
+description: Timeless, Carbonize, Denied, Relax and Pipvid work as expected!
 type: Document
 
 ---
