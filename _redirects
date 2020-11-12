@@ -6,7 +6,6 @@
 /knowledge_base/topics/do-your-apps-work-with-macos-10-dot-12-sierra*     /general/do-your-apps-work-with-the-latest-macos
 /knowledge_base/topics/if-i-buy-one-of-your-apps-how-will-i-get-it*       /general/if-i-buy-an-app-how-do-i-get-it
 
-
 /knowledge_base/categories/denied*                                        /category/denied
 /knowledge_base/topics/why-isnt-denied-skipping-explicit-songs*           /denied/why-isnt-denied-skipping-explicit-songs
 /knowledge_base/topics/where-is-the-non-mac-app-store-version-of-denied*  /denied/where-is-the-non-mac-app-store-version-of-denied
@@ -14,19 +13,16 @@
 /knowledge_base/topics/which-music-services-and-apps-are-supported*       /denied/which-music-services-and-apps-are-supported
 /knowledge_base/topics/why-isnt-denied-skipping-this-horrible-song*       /denied/why-isnt-denied-skipping-this-horrible-song
 
-
 /knowledge_base/categories/airvlc*                                                     /category/airvlc
 /knowledge_base/topics/how-do-i-use-airvlc-with-porthole-or-airfoil*                   /airvlc/how-do-i-use-airvlc-with-porthole-or-airfoil
 /knowledge_base/topics/built-in-airplay-isnt-working*                                  /airvlc/why-isnt-built-in-airplay-working
 /knowledge_base/topics/how-do-i-start-streaming*                                       /airvlc/how-do-i-start-streaming
 /knowledge_base/topics/the-output-volume-is-very-low-or-i-cant-hear-anything-at-all*   /airvlc/why-is-the-output-volume-so-low
 
-
 /knowledge_base/categories/toggluv*                                                    /category/toggluv
 /knowledge_base/topics/what-is-toggl*                                                  /toggluv/what-is-toggl
 /knowledge_base/topics/i-cant-select-the-projects-dropdown-menu-with-my-keyboard*      /toggluv/how-can-i-select-projects-with-my-keyboard
 /knowledge_base/topics/whats-the-current-status-of-toggluv*                            /toggluv/whats-the-current-status-of-toggluv
-
 
 /knowledge_base/categories/porthole*                                                                 /category/porthole
 /knowledge_base/topics/can-i-stream-to-my-airplay-speakers-and-my-mac-simultaneously*                /porthole/can-i-stream-to-my-airplay-speakers-and-my-mac-simultaneously
@@ -50,3 +46,6 @@
 /knowledge_base/topics/my-macs-speaker-and-airplay-are-out-of-sync*                                  /porthole/why-are-my-macs-speaker-and-airplay-out-of-sync
 /knowledge_base/topics/the-volume-seems-low-while-streaming*                                         /porthole/why-is-the-volume-low-while-streaming
 /knowledge_base/topics/if-i-stop-streaming-my-system-audio-is-gone*                                  /porthole/why-is-my-system-audio-gone-when-i-stop-steaming
+
+/category/carbonize*    /category/petrify:splat
+/carbonize/*            /petrify/:splat

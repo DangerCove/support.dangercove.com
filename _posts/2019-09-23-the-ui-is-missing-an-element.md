@@ -2,7 +2,7 @@
 date: 2019-09-23
 title: Why am I missing interface elements?
 categories:
-  - Carbonize
+  - Petrify
 description: "I need to update the CSS. An update is usually underway."
 type: Document
 ---

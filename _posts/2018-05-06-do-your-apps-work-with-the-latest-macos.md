@@ -5,6 +5,6 @@ categories:
 - General
 description: Timeless, Carbonize, Denied, Relax and Pipvid work as expected!
 type: Document
-
 ---
-I’ve tried Timeless, Carbonize, Denied, Relax and Pipvid with the initial beta and they all work as expected!
+
+I’ve tried Timeless, Petrify, Denied, Relax and Pipvid with the initial beta and they all work as expected!
