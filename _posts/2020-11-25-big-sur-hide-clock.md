@@ -1,13 +1,13 @@
 ---
 date: 2020-01-04
-title: I'm on macOS Big Sur, how do I hide the clock?
+title: How do I hide the clock?
 categories:
   - Timeless 
-description: "Apple oddly removed the option to hide the clock on macOS Big Sur."
+description: "Apple oddly removed the option to hide the clock on macOS Big Sur and higher."
 type: Document
 ---
 
-Oddly enough, Apple decided to remove the option to hide the clock on macOS Big Sur.
+Oddly enough, Apple decided to remove the option to hide the clock on macOS Big Sur and higher.
 
 I've been leaving feedback about the issue since the first beta, but to no avail.
 
