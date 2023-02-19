@@ -4,7 +4,7 @@
 title: Danger Cove
 url: "https://support.dangercove.com"
 baseurl:
-google_analytics_key: #UA-27275793-30
+google_analytics_key:
 disqus_shortname:
 newsletter_action:
 
@@ -13,8 +13,6 @@ logo: /siteicon.png
 description: First aid with all Danger Cove apps.
 author:
   name: Boy van Amstel
-  email: support@dangercove.com
-  twitter: dangercove # twitter username without the @ symbol
 
 # -----
 # Build
