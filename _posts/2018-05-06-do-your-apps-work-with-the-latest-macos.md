@@ -1,5 +1,5 @@
 ---
-date: 2024-04-01 22:00:00 +0000
+date: 2024-03-01 22:00:00 +0000
 title: Do your apps work with macOS 14 Sonoma?
 categories:
 - General
