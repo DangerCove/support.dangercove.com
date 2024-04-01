@@ -1,10 +1,10 @@
 ---
-date: 2020-06-22 22:00:00 +0000
-title: Do your apps work with macOS 13 Ventura?
+date: 2024-04-01 22:00:00 +0000
+title: Do your apps work with macOS 14 Sonoma?
 categories:
 - General
-description: Timeless, Petrify, Denied, Relax and Pipvid work as expected!
+description: Petrify, Denied and Relax work as expected!
 type: Document
 ---
 
-I’ve tried Timeless, Petrify, Denied, Relax and Pipvid with macOS Ventura and they all work as expected!
+I’ve tried Petrify, Denied and Relax with macOS Sonoma and they all work as expected!
